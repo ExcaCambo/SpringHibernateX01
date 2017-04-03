@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KnongDaiRestaurant_API:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="KnongDaiRestaurant_API-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="KnongDaiRestaurant_API:war exploded" />
+    </root>
+  </artifact>
+</component>
